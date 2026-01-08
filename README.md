@@ -65,7 +65,7 @@ my-app/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://Zackmohamd/your-username/my-app.git
+git clone https://Zackmohamd/my-app.git
 cd my-app
 
 
